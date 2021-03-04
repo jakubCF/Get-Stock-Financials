@@ -1,0 +1,5 @@
+/.vscode
+/download
+geckodriver.log
+success.txt
+error.txt
